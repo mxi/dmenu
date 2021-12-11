@@ -6,6 +6,7 @@ dmenu is an efficient dynamic menu for X.
 Patches Applied
 ---------------
 1. dmenu-tsv-20201101-1a13d04.diff
+2. dmenu-allow-color-font-5.0.diff
 
 
 Information
