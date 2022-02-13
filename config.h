@@ -6,7 +6,11 @@ static int topbar = 1;
 
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-	"Noto Mono:size=14"
+	"Hack:size=12:antialias=true:autohint=true",
+	"Noto Sans:size=12:antialias=true:autohint=true",
+	"Noto Serif:size=12:antialias=true:autohint=true",
+	"Noto Color Emoji:size=12:antialias=true:autohint=true",
+	"Font Awesome 5 Free:size=12:antialias=true:autohint=true",
 };
 
 /* -p  option; prompt to the left of input field */
